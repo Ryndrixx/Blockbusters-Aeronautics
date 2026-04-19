@@ -9,7 +9,7 @@
 ## 📦 Installation
 
 1. Download and install the [Modrinth App](https://modrinth.com/app)
-2. Search for **Blockbusters: Aeronautics** or grab the `.mrpack` file from [Releases](../../releases)
+2. Find the modpack at [modrinth.com/modpack/blockbusters-aeronautics](https://modrinth.com/modpack/blockbusters-aeronautics) and click **Install**
 3. Click **Play**
 
 ---
