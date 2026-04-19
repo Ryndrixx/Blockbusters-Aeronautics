@@ -34,8 +34,10 @@ For the best experience:
 
 **JVM Arguments** (paste into Modrinth launcher settings):
 ```
--Xms4G -Xmx8G -XX:+UseG1GC -XX:+ParallelRefProcEnabled -XX:MaxGCPauseMillis=200 -XX:+UnlockExperimentalVMOptions -XX:+DisableExplicitGC -XX:G1NewSizePercent=30 -XX:G1MaxNewSizePercent=40 -XX:G1HeapRegionSize=8M -XX:G1ReservePercent=20 -XX:G1HeapWastePercent=5 -XX:G1MixedGCCountTarget=4 -XX:InitiatingHeapOccupancyPercent=15 -XX:G1MixedGCLiveThresholdPercent=90 -XX:G1RSetUpdatingPauseTimePercent=5 -XX:SurvivorRatio=32 -XX:+PerfDisableSharedMem -XX:MaxTenuringThreshold=1
+-Xms4G -Xmx8G -XX:+UseZGC -XX:+ZGenerational -XX:+UnlockExperimentalVMOptions -XX:+DisableExplicitGC -XX:ConcGCThreads=3
 ```
+
+> **Note:** This pack includes Distant Horizons, which recommends ZGC for smoother rendering. ZGC runs garbage collection concurrently so you won't get stutters. Requires Java 21 (which the Modrinth launcher uses by default).
 
 ---
 
