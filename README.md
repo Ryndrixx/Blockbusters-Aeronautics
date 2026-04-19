@@ -9,7 +9,7 @@
 ## 📦 Installation
 
 1. Download and install the [Modrinth App](https://modrinth.com/app)
-2. Find the modpack at [modrinth.com/modpack/blockbusters-aeronautics](https://modrinth.com/modpack/blockbusters-aeronautics) and click **Install**
+2. Find the modpack at [modrinth.com/modpack/blockbusters-aeronautics](https://modrinth.com/modpack/blockbusters-aeronautics) or by searching for it in the Modrinth app and click **Install**
 3. Click **Play**
 
 ---
@@ -19,8 +19,6 @@
 - **Version:** 1.21.1 NeoForge
 - **Slots:** 10 players
 - **Difficulty:** Normal
-
-To join, ask Ryndrixx for the server address. You must have the modpack installed.
 
 ---
 
