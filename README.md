@@ -14,7 +14,43 @@
 
 ---
 
-## 🖥️ Server Info
+## 🖥️ Server Setup
+
+Download the latest server pack from the [Releases](../../releases/latest) page (`*-server.mrpack`).
+
+### Docker (recommended)
+
+1. Copy the `.mrpack` file to your server directory
+2. Create a `docker-compose.yml`:
+
+```yaml
+services:
+  minecraft:
+    image: itzg/minecraft-server:java21
+    container_name: minecraft-server
+    environment:
+      EULA: "TRUE"
+      TYPE: "MODRINTH"
+      MODRINTH_MODPACK: "/modpack/blockbusters-aeronautics-X.X.X-server.mrpack"
+      MEMORY: "10G"
+    volumes:
+      - ./server:/data
+      - ./modpack:/modpack:ro
+    ports:
+      - "25565:25565"
+    restart: unless-stopped
+```
+
+3. Run `docker compose up -d`
+
+### Manual
+
+1. Download [NeoForge 1.21.1](https://neoforged.net/) and install it
+2. Extract the `-server.mrpack` (it's a ZIP) and copy the `mods/` folder to your server directory
+3. Copy the `overrides/` folder contents to your server directory
+4. Start the server with at least 8GB RAM
+
+### Server Info
 
 - **Version:** 1.21.1 NeoForge
 - **Slots:** 10 players
