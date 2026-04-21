@@ -7,8 +7,10 @@ All notable changes to Blockbusters: Aeronautics will be documented here.
 ## [0.0.3] — 2026-04-21
 
 ### Added
-- Create: Big Cannons + Ritchie's Projectile Library
-- Create: Bionics
+- Create: Big Cannons, Create: Bionics, FancyMenu, OneKeyMiner
+
+### Fixed
+- Server-side crash with Create: Aeronautics propeller bearing
 
 ---
 
