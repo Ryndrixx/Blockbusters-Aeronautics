@@ -100,12 +100,6 @@ See [CHANGELOG.md](CHANGELOG.md) for full version history.
 
 ---
 
-## 🎬 Content
-
-Follow the series on [Twitch](https://twitch.tv/ryndrixx) and [YouTube](https://youtube.com/@ryndrixx).
-
----
-
 ## 📝 Contributing / Reporting Issues
 
 Found a bug or want to suggest a mod? Open an [Issue](../../issues)!
