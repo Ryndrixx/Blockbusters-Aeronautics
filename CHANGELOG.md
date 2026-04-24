@@ -4,11 +4,42 @@ All notable changes to Blockbusters: Aeronautics will be documented here.
 
 ---
 
+## [0.0.6] — 2026-04-24
+
+## __**Updates**__
+- Added Cosmetic Armor Reworked Forked — wear cosmetic armor over your real gear
+- Updated CosmoMine to v0.5.0 — silhouette-only highlight outlines (no more internal wire cage)
+
+## __**Notes**__
+
+This mod pack is in early development, issues will be identified and resolved as soon as possible. Please be patient and report any known issues to the [GitHub](https://github.com/Ryndrixx/Blockbusters-Aeronautics) page!
+
+
+_**Always back up before updating!**_
+
+---
+
+## [0.0.5] — 2026-04-23
+
+## __**Updates**__
+- Replaced FTB Ultimine with CosmoMine (custom veinminer — all rights reserved clean-room implementation)
+- All mods now sourced exclusively from Modrinth (no CurseForge dependencies)
+- Repository made public on GitHub
+
+## __**Notes**__
+
+This mod pack is in early development, issues will be identified and resolved as soon as possible. Please be patient and report any known issues to the [GitHub](https://github.com/Ryndrixx/Blockbusters-Aeronautics) page!
+
+
+_**Always back up before updating!**_
+
+---
+
 ## [0.0.4] — 2026-04-22
 
 ## __**Updates**__
 - Added Physics Mod Pro (client-side) — realistic ocean waves
-- Added FTB Ultimine & FTB Library — vein mining support
+- Added FTB Ultimine \& FTB Library — vein mining support
 - Added Sophisticated Backpacks + Create integration
 
 ## __**Notes**__
