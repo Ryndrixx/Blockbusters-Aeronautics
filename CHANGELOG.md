@@ -4,6 +4,20 @@ All notable changes to Blockbusters: Aeronautics will be documented here.
 
 ---
 
+## [0.0.7] — 2026-04-25
+
+## __**Updates**__
+- Updated **Sable** from v1.0.5 to v1.1.3 — fixes crash caused by Lithium compatibility issue during sub-level loading (was crashing the server)
+
+## __**Notes**__
+
+This mod pack is in early development, issues will be identified and resolved as soon as possible. Please be patient and report any known issues to the [GitHub](https://github.com/Ryndrixx/Blockbusters-Aeronautics) page!
+
+
+_**Always back up before updating!**_
+
+---
+
 ## [0.0.6] — 2026-04-24
 
 ## __**Updates**__
