@@ -4,6 +4,20 @@ All notable changes to Blockbusters: Aeronautics will be documented here.
 
 ---
 
+## [0.18.3] — 2026-05-09
+
+## __**Updates**__
+- Added **Fusion (Connected Textures)** — required dependency for Connected Glass
+- Added **SuperMartijn642's Core Lib** — required dependency for Connected Glass
+
+## __**Notes**__
+
+This mod pack is in early development, issues will be identified and resolved as soon as possible. Please be patient and report any known issues to the [GitHub](https://github.com/Ryndrixx/Blockbusters-Aeronautics) page!
+
+_**Always back up before updating!**_
+
+---
+
 ## [0.18.2] — 2026-05-09
 
 ## __**Updates**__
