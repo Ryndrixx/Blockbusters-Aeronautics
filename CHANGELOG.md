@@ -4,6 +4,20 @@ All notable changes to Blockbusters: Aeronautics will be documented here.
 
 ---
 
+## [0.18.1] — 2026-05-09
+
+## __**Updates**__
+- Added **Cosmetic Armor Reworked Forked** — wear cosmetic armor over your real gear
+- Added **Solas Shaders** (client only) — Solas Shader V3.6
+
+## __**Notes**__
+
+This mod pack is in early development, issues will be identified and resolved as soon as possible. Please be patient and report any known issues to the [GitHub](https://github.com/Ryndrixx/Blockbusters-Aeronautics) page!
+
+_**Always back up before updating!**_
+
+---
+
 ## [0.18] — 2026-05-09
 
 ## __**Updates**__
