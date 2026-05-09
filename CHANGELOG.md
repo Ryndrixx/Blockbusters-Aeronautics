@@ -4,6 +4,26 @@ All notable changes to Blockbusters: Aeronautics will be documented here.
 
 ---
 
+## [0.18] — 2026-05-09
+
+## __**Updates**__
+- Updated **Create: Aeronautics** from 1.0.2 → 1.2.1 (bundled)
+- Updated **Sable** from 1.0.5 → 1.2.2
+- Updated **Create** from 6.0.9 → 6.0.10 (required by Aeronautics 1.2.1)
+- Added **Crawl** — go prone with a keybind
+- Added **Mod Sound Volume Options** — per-mod volume sliders (client only)
+- Replaced **CosmoMine** with **FTB Ultimine** (server compatible, no custom mod required)
+- Replaced **Create: Ender Transmission** with **Create Utilities**
+- Removed **Create Bionics**, **C2ME**
+
+## __**Notes**__
+
+This mod pack is in early development, issues will be identified and resolved as soon as possible. Please be patient and report any known issues to the [GitHub](https://github.com/Ryndrixx/Blockbusters-Aeronautics) page!
+
+_**Always back up before updating!**_
+
+---
+
 ## [0.0.16] — 2026-05-08
 
 ## __**Updates**__
