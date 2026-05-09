@@ -4,6 +4,21 @@ All notable changes to Blockbusters: Aeronautics will be documented here.
 
 ---
 
+## [0.18.2] — 2026-05-09
+
+## __**Updates**__
+- Added **Connected Glass** — connected textures for glass (client only)
+- Added **Discord Rich Presence** — shows what you're playing in Discord status
+- Added launcher icon and instance name
+
+## __**Notes**__
+
+This mod pack is in early development, issues will be identified and resolved as soon as possible. Please be patient and report any known issues to the [GitHub](https://github.com/Ryndrixx/Blockbusters-Aeronautics) page!
+
+_**Always back up before updating!**_
+
+---
+
 ## [0.18.1] — 2026-05-09
 
 ## __**Updates**__
